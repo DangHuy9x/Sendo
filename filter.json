@@ -1,0 +1,753 @@
+
+{
+  "filtersObject": [
+       {
+           "attribute_term": "DefaultTerm",
+           "attribute_name": "Địa điểm",
+           "attribute_key": "shop_warehouse_city_id",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "option_id": 1,
+                   "option_name": "Hồ Chí Minh"
+               },
+               {
+                   "option_id": 2,
+                   "option_name": "Hà Nội"
+               },
+               {
+                   "option_id": 33,
+                   "option_name": "Lâm Đồng"
+               },
+               {
+                   "option_id": 13,
+                   "option_name": "Bình Thuận"
+               },
+               {
+                   "option_id": 20,
+                   "option_name": "Đồng Nai"
+               },
+               {
+                   "option_id": 30,
+                   "option_name": "Khánh Hòa"
+               },
+               {
+                   "option_id": 17,
+                   "option_name": "Đà Nẵng"
+               },
+               {
+                   "option_id": 18,
+                   "option_name": "Đắk Lắk"
+               },
+               {
+                   "option_id": 57,
+                   "option_name": "Vĩnh Phúc"
+               },
+               {
+                   "option_id": 3,
+                   "option_name": "An Giang"
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       },
+       {
+           "attribute_term": "DefaultNewTerm",
+           "attribute_name": "Phương thức vận chuyển",
+           "attribute_key": "shipping_method",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "option_name": "Hỏa tốc",
+                   "search_key": "is_using_instant",
+                   "value": 1
+               },
+               {
+                   "option_name": "Chuyển phát tiêu chuẩn",
+                   "search_key": "is_using_standard",
+                   "value": 1
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       },
+       {
+           "attribute_term": "DefaultNewTerm",
+           "attribute_name": "Loại shop",
+           "attribute_key": "shop_type",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "option_name": "SenMall",
+                   "search_key": "shop_type",
+                   "value": 2
+               },
+               {
+                   "option_name": "Shop+",
+                   "search_key": "is_shop_plus",
+                   "value": 1
+               },
+               {
+                   "option_name": "Shop tự giao",
+                   "search_key": "is_self_shipping",
+                   "value": 1
+               },
+               {
+                   "option_name": "Shop uy tín",
+                   "search_key": "is_certified",
+                   "value": 1
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       },
+       {
+           "attribute_term": "GeneralTerm",
+           "attribute_key": "campaign_id",
+           "attribute_value": [
+               {
+                   "name": "TUẦN LỄ NHÀ CỬA  01-06.10",
+                   "value": 103,
+                   "icon": "",
+                   "label": "TUẦN LỄ NHÀ CỬA  01-06.10",
+                   "background_color": "",
+                   "background_image": ""
+               },
+               {
+                   "name": "SĂN SALE SHOP + (01-27/11)",
+                   "value": 118,
+                   "icon": "",
+                   "label": "SĂN SALE SHOP + (01-27/11)",
+                   "background_color": "",
+                   "background_image": ""
+               }
+           ]
+       },
+       {
+           "attribute_term": "GeneralTerm",
+           "attribute_key": "is_flash_sale",
+           "attribute_value": [
+               {
+                   "name": "Flash Sale",
+                   "value": 1,
+                   "icon": "flashsale",
+                   "label": "Flash Sale",
+                   "position": "top",
+                   "background_color": "",
+                   "background_image": ""
+               }
+           ]
+       },
+       {
+           "attribute_term": "GeneralTerm",
+           "attribute_key": "is_mega_voucher",
+           "attribute_value": [
+               {
+                   "name": "Siêu voucher tháng 11",
+                   "value": 1,
+                   "icon": "install",
+                   "label": "Siêu voucher tháng 11",
+                   "position": "",
+                   "background_color": "",
+                   "background_image": ""
+               }
+           ]
+       },
+       {
+           "attribute_term": "GeneralTerm",
+           "attribute_key": "is_pay_later",
+           "attribute_value": [
+               {
+                   "name": "Mua trước trả sau",
+                   "value": 1,
+                   "icon": "install",
+                   "label": "Mua trước trả sau",
+                   "position": "",
+                   "background_color": "",
+                   "background_image": ""
+               }
+           ]
+       },
+       {
+           "attribute_term": "GeneralTerm",
+           "attribute_key": "is_combo_discount",
+           "attribute_value": [
+               {
+                   "name": "Mua gói siêu hời",
+                   "value": 1,
+                   "icon": "install",
+                   "label": "Mua gói siêu hời",
+                   "position": "",
+                   "background_color": "",
+                   "background_image": ""
+               }
+           ]
+       },
+       {
+           "attribute_term": "GeneralTerm",
+           "attribute_key": "is_quantity_discount",
+           "attribute_value": [
+               {
+                   "name": "Mua nhiều giảm giá",
+                   "value": 1,
+                   "icon": "install",
+                   "label": "Mua nhiều giảm giá",
+                   "position": "",
+                   "background_color": "",
+                   "background_image": ""
+               }
+           ]
+       },
+       {
+           "attribute_term": "GeneralTerm",
+           "attribute_key": "is_shipping_discount",
+           "attribute_value": [
+               {
+                   "name": "Freeship",
+                   "value": 1,
+                   "icon": "delivery",
+                   "label": "Freeship",
+                   "position": "top",
+                   "background_color": "",
+                   "background_image": ""
+               }
+           ]
+       },
+       {
+           "attribute_term": "GeneralTerm",
+           "attribute_key": "is_promotion",
+           "attribute_value": [
+               {
+                   "name": "Khuyến mãi",
+                   "value": 1,
+                   "icon": "discount",
+                   "label": "Khuyến mãi",
+                   "position": "",
+                   "background_color": "",
+                   "background_image": ""
+               }
+           ]
+       },
+       {
+           "attribute_term": "GeneralTerm",
+           "attribute_key": "promotion_app",
+           "attribute_value": [
+               {
+                   "name": "Khuyến mãi app",
+                   "value": 1,
+                   "icon": "discountApp",
+                   "label": "Khuyến mãi app",
+                   "position": "",
+                   "background_color": "",
+                   "background_image": ""
+               }
+           ]
+       },
+       {
+           "attribute_term": "GeneralTerm",
+           "attribute_key": "is_installment",
+           "attribute_value": [
+               {
+                   "name": "Trả góp 0%",
+                   "value": 1,
+                   "icon": "install",
+                   "label": "Trả góp 0%",
+                   "position": "",
+                   "background_color": "",
+                   "background_image": ""
+               }
+           ]
+       },
+       {
+           "attribute_term": "PriceTerm",
+           "attribute_name": "Khoảng giá",
+           "attribute_key": "levelPrice",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "gtprice": -1,
+                   "ltprice": "80000"
+               },
+               {
+                   "gtprice": "80000",
+                   "ltprice": "150000"
+               },
+               {
+                   "gtprice": "150000",
+                   "ltprice": "350000"
+               },
+               {
+                   "gtprice": "350000",
+                   "ltprice": "700000"
+               },
+               {
+                   "gtprice": "700000",
+                   "ltprice": "1000000"
+               },
+               {
+                   "gtprice": "1000000",
+                   "ltprice": -1
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       },
+       {
+           "attribute_term": "RatingTerm",
+           "attribute_name": "Đánh giá",
+           "attribute_key": "levelRating",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "option_name": "5 sao",
+                   "gte_rating_percent": "5",
+                   "lte_rating_percent": ""
+               },
+               {
+                   "option_name": "4-5 sao",
+                   "gte_rating_percent": "4",
+                   "lte_rating_percent": "5"
+               },
+               {
+                   "option_name": "3-5 sao",
+                   "gte_rating_percent": "3",
+                   "lte_rating_percent": "5"
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       },
+       {
+           "attribute_term": "ColorTerm",
+           "attribute_name": "Màu sắc",
+           "attribute_key": "mau_sac",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "option_id": "mau_sac:613",
+                   "value": "Xám",
+                   "color_id": 2,
+                   "image": "",
+                   "color_hexRgb": "999999",
+                   "color_name": "Xám",
+                   "background": ""
+               },
+               {
+                   "option_id": "mau_sac:606",
+                   "value": "Hồng",
+                   "color_id": 12,
+                   "image": "",
+                   "color_hexRgb": "ff00ff",
+                   "color_name": "Hồng",
+                   "background": ""
+               },
+               {
+                   "option_id": "mau_sac:608",
+                   "value": "Xanh nước biển",
+                   "color_id": 11,
+                   "image": "",
+                   "color_hexRgb": "0080ff",
+                   "color_name": "Xanh nước biển",
+                   "background": ""
+               },
+               {
+                   "option_id": "mau_sac:604",
+                   "value": "Trắng",
+                   "color_id": 9,
+                   "image": "",
+                   "color_hexRgb": "ffffff",
+                   "color_name": "Trắng",
+                   "background": ""
+               },
+               {
+                   "option_id": "mau_sac:614",
+                   "value": "Tím",
+                   "color_id": 3,
+                   "image": "",
+                   "color_hexRgb": "800080",
+                   "color_name": "Tím",
+                   "background": ""
+               },
+               {
+                   "option_id": "mau_sac:603",
+                   "value": "Vàng",
+                   "color_id": 4,
+                   "image": "",
+                   "color_hexRgb": "ffff00",
+                   "color_name": "Vàng",
+                   "background": ""
+               },
+               {
+                   "option_id": "mau_sac:607",
+                   "value": "Xanh lá",
+                   "color_id": 14,
+                   "image": "",
+                   "color_hexRgb": "00ff00",
+                   "color_name": "Xanh lá",
+                   "background": ""
+               },
+               {
+                   "option_id": "mau_sac:609",
+                   "value": "Xanh ngọc",
+                   "color_id": 10,
+                   "image": "",
+                   "color_hexRgb": "00ffff",
+                   "color_name": "Xanh ngọc",
+                   "background": ""
+               },
+               {
+                   "option_id": "mau_sac:1476",
+                   "value": "Khác",
+                   "color_id": 19,
+                   "image": "https://media3.scdn.vn/img/2014/3_6/khac_2ikqk5jehmtts_simg_2df889_740x613_max.gif",
+                   "color_hexRgb": "",
+                   "color_name": "Khác",
+                   "background": ""
+               },
+               {
+                   "option_id": "mau_sac:605",
+                   "value": "Đen",
+                   "color_id": 13,
+                   "image": "",
+                   "color_hexRgb": "000000",
+                   "color_name": "Đen",
+                   "background": ""
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       },
+       {
+           "attribute_term": "DefaultTerm",
+           "attribute_name": "Loại da",
+           "attribute_key": "loai_da_1",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "option_id": 20721,
+                   "option_name": "Mọi loại da",
+                   "background": ""
+               },
+               {
+                   "option_id": 20713,
+                   "option_name": "Khác",
+                   "background": ""
+               },
+               {
+                   "option_id": 20714,
+                   "option_name": "Da khô",
+                   "background": ""
+               },
+               {
+                   "option_id": 20720,
+                   "option_name": "Da hư tổn",
+                   "background": ""
+               },
+               {
+                   "option_id": 37324,
+                   "option_name": "Da nám",
+                   "background": ""
+               },
+               {
+                   "option_id": 20715,
+                   "option_name": "Da nhờn",
+                   "background": ""
+               },
+               {
+                   "option_id": 20716,
+                   "option_name": "Da nhạy cảm",
+                   "background": ""
+               },
+               {
+                   "option_id": 20717,
+                   "option_name": "Da lão hóa",
+                   "background": ""
+               },
+               {
+                   "option_id": 20718,
+                   "option_name": "Da hỗn hợp",
+                   "background": ""
+               },
+               {
+                   "option_id": 37323,
+                   "option_name": "Da mụn",
+                   "background": ""
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       },
+       {
+           "attribute_term": "DefaultTerm",
+           "attribute_name": "Loại tai nghe",
+           "attribute_key": "loai_tai_nghe_1_2",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "option_id": 20529,
+                   "option_name": "Nhét tai (in-ear)",
+                   "background": ""
+               },
+               {
+                   "option_id": 20532,
+                   "option_name": "Trong tai (ear-buds)",
+                   "background": ""
+               },
+               {
+                   "option_id": 21970,
+                   "option_name": "Tai nghe thể thao (sports)",
+                   "background": ""
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       },
+       {
+           "attribute_term": "DefaultTerm",
+           "attribute_name": "Bảo hành",
+           "attribute_key": "bao_hanh",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "option_id": "bao_hanh_1_2_3:20469",
+                   "option_name": "12 tháng",
+                   "background": ""
+               },
+               {
+                   "option_id": "bao_hanh_1_2_3:20466",
+                   "option_name": "3 tháng",
+                   "background": ""
+               },
+               {
+                   "option_id": "bao_hanh_1_2_3:19599",
+                   "option_name": "Không bảo hành",
+                   "background": ""
+               },
+               {
+                   "option_id": "bao_hanh_1_2_3:20467",
+                   "option_name": "6 tháng",
+                   "background": ""
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       },
+       {
+           "attribute_term": "DefaultTerm",
+           "attribute_name": "Hãng sản xuất",
+           "attribute_key": "hang_san_xuat",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "option_id": "hang_san_xuat_1_2_3_4_5_6_7_8_9_10_11:22278",
+                   "option_name": "BLUETOOTH",
+                   "background": ""
+               },
+               {
+                   "option_id": "hang_san_xuat_1_2_3_4_5_6_7_8_9_10_11:22315",
+                   "option_name": "PODOM",
+                   "background": ""
+               },
+               {
+                   "option_id": "hang_san_xuat_1_2_3_4_5_6_7_8_9_10_11:22330",
+                   "option_name": "KHÁC",
+                   "background": ""
+               },
+               {
+                   "option_id": "hang_san_xuat_1_2_3_4_5_6_7_8_9_10_11:22256",
+                   "option_name": "USA STORE",
+                   "background": ""
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       },
+       {
+           "attribute_term": "DefaultTerm",
+           "attribute_name": "Kích thước",
+           "attribute_key": "kich_thuoc",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "option_id": "kich_thuoc_3:850",
+                   "option_name": "41",
+                   "background": ""
+               },
+               {
+                   "option_id": "kich_thuoc_3:851",
+                   "option_name": "42",
+                   "background": ""
+               },
+               {
+                   "option_id": "kich_thuoc_3:852",
+                   "option_name": "43",
+                   "background": ""
+               },
+               {
+                   "option_id": "kich_thuoc_3:845",
+                   "option_name": "36",
+                   "background": ""
+               },
+               {
+                   "option_id": "kich_thuoc_3:853",
+                   "option_name": "44",
+                   "background": ""
+               },
+               {
+                   "option_id": "kich_thuoc_3:847",
+                   "option_name": "38",
+                   "background": ""
+               },
+               {
+                   "option_id": "kich_thuoc_3:848",
+                   "option_name": "39",
+                   "background": ""
+               },
+               {
+                   "option_id": "kich_thuoc_3:849",
+                   "option_name": "40",
+                   "background": ""
+               },
+               {
+                   "option_id": "kich_thuoc_3:846",
+                   "option_name": "37",
+                   "background": ""
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       },
+       {
+           "attribute_term": "DefaultTerm",
+           "attribute_name": "Nhãn Hiệu",
+           "attribute_key": "nhan_hieu",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "option_id": "nhan_hieu_1:20746",
+                   "option_name": "Shiseido",
+                   "background": ""
+               },
+               {
+                   "option_id": "nhan_hieu_1:1654",
+                   "option_name": "Khác",
+                   "background": ""
+               },
+               {
+                   "option_id": "nhan_hieu_1:1357",
+                   "option_name": "Ohui",
+                   "background": ""
+               },
+               {
+                   "option_id": "nhan_hieu_1:20783",
+                   "option_name": "ZA",
+                   "background": ""
+               },
+               {
+                   "option_id": "nhan_hieu_1:1367",
+                   "option_name": "Clinique",
+                   "background": ""
+               },
+               {
+                   "option_id": "nhan_hieu_1:24285",
+                   "option_name": "Za",
+                   "background": ""
+               },
+               {
+                   "option_id": "nhan_hieu_1:23557",
+                   "option_name": "Mac",
+                   "background": ""
+               },
+               {
+                   "option_id": "nhan_hieu_1:23496",
+                   "option_name": "Công Ty Việt Hàn",
+                   "background": ""
+               },
+               {
+                   "option_id": "nhan_hieu_1:1292",
+                   "option_name": "Clarins",
+                   "background": ""
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       },
+       {
+           "attribute_term": "DefaultTerm",
+           "attribute_name": "Xuất xứ",
+           "attribute_key": "xuat_xu",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "option_id": "xuat_xu_1_2:17430",
+                   "option_name": "Canada",
+                   "background": ""
+               },
+               {
+                   "option_id": "xuat_xu_1_2:17425",
+                   "option_name": "Mỹ",
+                   "background": ""
+               },
+               {
+                   "option_id": "xuat_xu_1_2:22490",
+                   "option_name": "Đài Loan",
+                   "background": ""
+               },
+               {
+                   "option_id": "xuat_xu_1_2:23549",
+                   "option_name": "Ấn Độ",
+                   "background": ""
+               },
+               {
+                   "option_id": "xuat_xu_1_2:17422",
+                   "option_name": "Việt Nam",
+                   "background": ""
+               },
+               {
+                   "option_id": "xuat_xu_1_2:17416",
+                   "option_name": "Hàn Quốc",
+                   "background": ""
+               },
+               {
+                   "option_id": "xuat_xu_1_2:22488",
+                   "option_name": "Bulgaria",
+                   "background": ""
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       },
+       {
+           "attribute_term": "DefaultNewTerm",
+           "attribute_name": "Bộ lọc khác",
+           "attribute_key": "other_type",
+           "attribute_icon": "",
+           "attribute_label": "",
+           "attribute_value": [
+               {
+                   "option_name": "Có video",
+                   "search_key": "is_video",
+                   "icon": "icon",
+                   "value": 1
+               }
+           ],
+           "attribute_background_color": "",
+           "attribute_background_image": ""
+       }
+   ]
+}
+
+

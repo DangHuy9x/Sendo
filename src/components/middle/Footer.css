@@ -1,0 +1,118 @@
+
+.footer-container-bg {
+    margin: 0 -3%;
+    background-color: #fff;
+}
+
+.slogan-container{
+    margin: 0 3%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.slogan-item{
+    width: 25%;
+}
+
+.slogan-flex {
+    display: flex;
+}
+
+.slogan-img{
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+}
+
+.slogan{
+    display: flex;
+    font-size: 12px;
+    font-weight: 550;
+    justify-content: center;
+    align-items: center;
+}
+
+.slogan-desc {
+    display: flex;
+    font-size: 11px;
+    font-weight: 300;
+    justify-content: space-around;
+    height: 30px;
+    justify-content: center;
+    text-align: center;
+}
+
+.slogan-desc span {
+    max-width: 60%;
+}
+
+.info{
+    font-size: 13px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-download p {
+    width: 75%;
+}
+
+.info-download-app {
+    display: flex; 
+    width: 80%;
+    flex-wrap: wrap;
+}
+
+.info-download-app img {
+    width: 100px;
+    height: 80%;
+    padding: 5px;
+}
+
+.contact-bg {
+    background-color: #0f1e29;
+    margin: 0 -3%;
+}
+.contact {
+    margin: 0 3%;
+    margin-top: 20px;
+    display: flex;
+    font-size: 12px;
+    color: #fff;
+}
+
+.contact-us {
+    max-width: 50%;
+}
+
+.certificate img {
+    width: 15%;
+    padding-right: 20px;
+}
+
+.contact-your {
+    margin-left: 40px;
+}
+
+.contact-your div {
+    display: flex;
+}
+
+.contact-your input {
+    padding: 2px 5px;
+    width: 300px;
+    border-radius: 4px;
+
+}
+
+.contact-your button {
+    width: 35%;
+    margin-left: 10px;
+    padding: 10px;
+    background-color: red;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: 550;
+    cursor: pointer;
+}

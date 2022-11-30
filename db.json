@@ -1,0 +1,1166 @@
+{
+  "productions":[
+      {
+          "id": 10112839,
+          "name": "Date mới-COMBO 5 GÓI TRÀ SÂM DỨA BẢO NGÂN TÚI LỌC 350g - RẺ NHẤT SENDO",
+          "category_path": "date-moi-combo-5-goi-tra-sam-dua-bao-ngan-tui-loc-350g-re-nhat-sendo-10112839.html",
+          "image": "https://media3.scdn.vn/img2/2018/6_9/Pwk0Rz_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 250000,
+          "default_price_max": 250000,
+          "sale_price_min": 185000,
+          "sale_price_max": 185000,
+          "sale_percent": 26,
+          "sold": 13,
+          "seller_admin_id": 317783,
+          "sku_user": "KDF00041",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 317783,
+              "name": "KHANG DUY FOODS",
+              "status": 2,
+              "ware_house_region_name": "Đà Nẵng",
+              "badge_urls": {}
+          },
+          "rated": {
+              "total": 6,
+              "star": 5
+          },
+          "options": {},
+          "package_discount": [
+              {
+                  "position": "top",
+                  "type": "shipping_discount",
+                  "text_color": "#14babd",
+                  "bg_color": "#e2f6f7",
+                  "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+              }
+          ]
+      },
+      {
+          "id": 14118258,
+          "name": "MUA SẮM TẾT - BỘ CHĂN GA GỐI - CHĂN BÔNG DÀY",
+          "category_path": "mua-sam-tet-bo-chan-ga-goi-chan-bong-day-14118258.html",
+          "image": "https://media3.scdn.vn/img3/2019/1_16/gpoPXO_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 630000,
+          "default_price_max": 630000,
+          "sale_price_min": 630000,
+          "sale_price_max": 630000,
+          "sold": 8,
+          "seller_admin_id": 147312,
+          "sku_user": "NGÔI NHÀ NHỎ PHAO",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 147312,
+              "name": "Ruby House _ Bedding Decor",
+              "status": 2,
+              "ware_house_region_name": "Hà Nội",
+              "badge_urls": {
+                  "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+              }
+          },
+          "rated": {
+              "total": 2,
+              "star": 4.5
+          },
+          "options": {}
+      },
+      {
+          "id": 13949741,
+          "name": "Mua Sắm Tết Cho Xe Hơi - Bộ 4 ốp Hõm cửa xe MAZDA CX- 5  giúp bảo vệ -trang trí ô tô - Hàng sáng đẹp",
+          "category_path": "mua-sam-tet-cho-xe-hoi-bo-4-op-hom-cua-xe-mazda-cx-5-giup-bao-ve-trang-tri-o-to-hang-sang-dep-13949741.html",
+          "image": "https://media3.scdn.vn/img3/2019/1_8/ilokyT_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 190000,
+          "default_price_max": 190000,
+          "sale_price_min": 190000,
+          "sale_price_max": 190000,
+          "sold": 2,
+          "seller_admin_id": 437370,
+          "sku_user": "Hõm cửa xe MAZDA CX-5",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 437370,
+              "name": "shopbongtit",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hà Nội",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 9631103,
+          "name": "Date mới-TRÀ SÂM DỨA ĐÀ NẴNG 500G RẺ NHẤT SENDO",
+          "category_path": "date-moi-tra-sam-dua-da-nang-500g-re-nhat-sendo-9631103.html",
+          "image": "https://media3.scdn.vn/img2/2018/5_7/1meAEA_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 120000,
+          "default_price_max": 120000,
+          "sale_price_min": 79000,
+          "sale_price_max": 79000,
+          "sale_percent": 35,
+          "sold": 25,
+          "seller_admin_id": 317783,
+          "sku_user": "KDF00022",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 317783,
+              "name": "KHANG DUY FOODS",
+              "status": 2,
+              "ware_house_region_name": "Đà Nẵng",
+              "badge_urls": {}
+          },
+          "rated": {
+              "total": 6,
+              "star": 5
+          },
+          "options": {},
+          "package_discount": [
+              {
+                  "position": "top",
+                  "type": "shipping_discount",
+                  "text_color": "#14babd",
+                  "bg_color": "#e2f6f7",
+                  "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+              }
+          ]
+      },
+      {
+          "id": 13950687,
+          "name": "Mua Sắm Tết Cho Xe Hơi - Bộ 4 ốp Hõm cửa xe MAZDA BT - 50 giúp bảo vệ -trang trí ô tô - Hàng sáng đẹp",
+          "category_path": "mua-sam-tet-cho-xe-hoi-bo-4-op-hom-cua-xe-mazda-bt-50-giup-bao-ve-trang-tri-o-to-hang-sang-dep-13950687.html",
+          "image": "https://media3.scdn.vn/img3/2019/1_8/bGsycv_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 190000,
+          "default_price_max": 190000,
+          "sale_price_min": 190000,
+          "sale_price_max": 190000,
+          "sold": 6,
+          "seller_admin_id": 437370,
+          "sku_user": "Hõm mazda bt-50",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 437370,
+              "name": "shopbongtit",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hà Nội",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 9631300,
+          "name": "Date mới-TRÀ SÂM DỨA BẢO NGÂN 350G RẺ NHẤT SENDO",
+          "category_path": "date-moi-tra-sam-dua-bao-ngan-350g-re-nhat-sendo-9631300.html",
+          "image": "https://media3.scdn.vn/img2/2018/5_7/6BpQTm_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 50000,
+          "default_price_max": 50000,
+          "sale_price_min": 40000,
+          "sale_price_max": 40000,
+          "sale_percent": 20,
+          "sold": 33,
+          "seller_admin_id": 317783,
+          "sku_user": "KDF00023",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 317783,
+              "name": "KHANG DUY FOODS",
+              "status": 2,
+              "ware_house_region_name": "Đà Nẵng",
+              "badge_urls": {}
+          },
+          "rated": {
+              "total": 3,
+              "star": 4.7
+          },
+          "options": {},
+          "package_discount": [
+              {
+                  "position": "top",
+                  "type": "shipping_discount",
+                  "text_color": "#14babd",
+                  "bg_color": "#e2f6f7",
+                  "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+              }
+          ]
+      },
+      {
+          "id": 10112816,
+          "name": "Date mới-TRÀ SÂM DỨA BẢO NGÂN TÚI LỌC 350g - RẺ NHẤT SENDO",
+          "category_path": "date-moi-tra-sam-dua-bao-ngan-tui-loc-350g-re-nhat-sendo-10112816.html",
+          "image": "https://media3.scdn.vn/img2/2018/6_9/0CVYfh_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 55000,
+          "default_price_max": 55000,
+          "sale_price_min": 40000,
+          "sale_price_max": 40000,
+          "sale_percent": 28,
+          "sold": 23,
+          "seller_admin_id": 317783,
+          "sku_user": "KDF00040",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 317783,
+              "name": "KHANG DUY FOODS",
+              "status": 2,
+              "ware_house_region_name": "Đà Nẵng",
+              "badge_urls": {}
+          },
+          "rated": {
+              "total": 6,
+              "star": 5
+          },
+          "options": {},
+          "package_discount": [
+              {
+                  "position": "top",
+                  "type": "shipping_discount",
+                  "text_color": "#14babd",
+                  "bg_color": "#e2f6f7",
+                  "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+              }
+          ]
+      },
+      {
+          "id": 9631002,
+          "name": "Date mới-COMBO 3 GÓI TRÀ SÂM DỨA ĐẶC SẢN ĐÀ NẴNG RẺ NHẤT SENDO",
+          "category_path": "date-moi-combo-3-goi-tra-sam-dua-dac-san-da-nang-re-nhat-sendo-9631002.html",
+          "image": "https://media3.scdn.vn/img2/2018/5_7/qEa40x_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 350000,
+          "default_price_max": 350000,
+          "sale_price_min": 230000,
+          "sale_price_max": 230000,
+          "sale_percent": 35,
+          "sold": 7,
+          "seller_admin_id": 317783,
+          "sku_user": "KDF0020",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 317783,
+              "name": "KHANG DUY FOODS",
+              "status": 2,
+              "ware_house_region_name": "Đà Nẵng",
+              "badge_urls": {}
+          },
+          "rated": {
+              "total": 2,
+              "star": 4.5
+          },
+          "options": {},
+          "package_discount": [
+              {
+                  "position": "top",
+                  "type": "shipping_discount",
+                  "text_color": "#14babd",
+                  "bg_color": "#e2f6f7",
+                  "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+              }
+          ]
+      },
+      {
+          "id": 32964406,
+          "name": "KEM SENDO NÁM SẠM SÁNG DA",
+          "category_path": "kem-sendo-nam-sam-sang-da-32964406.html",
+          "image": "https://media3.scdn.vn/img4/2020/08_29/JHhWvNKQuJ33FBBLQMWh_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 173000,
+          "default_price_max": 173000,
+          "sale_price_min": 173000,
+          "sale_price_max": 173000,
+          "sold": 3,
+          "seller_admin_id": 281148,
+          "sku_user": "SDD",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 281148,
+              "name": "lamtongloi",
+              "status": 2,
+              "ware_house_region_name": "Cà Mau",
+              "badge_urls": {
+                  "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+              }
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 41207570,
+          "name": "KEM SENDO NÁM SẠM SÁNG DA",
+          "category_path": "kem-sendo-nam-sam-sang-da-41207570.html",
+          "image": "https://media3.scdn.vn/img4/2021/03_02/2NCuN1ZRiqE0S5fVNOHr_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 175000,
+          "default_price_max": 175000,
+          "sale_price_min": 175000,
+          "sale_price_max": 175000,
+          "sold": 3,
+          "seller_admin_id": 482657,
+          "sku_user": "sendo nám",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 482657,
+              "name": "MỸ PHẨM CÔNG ĐÌNH",
+              "is_certified": true,
+              "status": 2,
+              "level": 3,
+              "ware_house_region_name": "Vũng Tàu",
+              "badge_urls": {
+                  "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png"
+              }
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 98862557,
+          "name": "Mua kem body tặng kích trắng (Lục tảo Legend Soo Young) giúp da trắng nhanh trong 7 ngày - đều màu da - ngăn ngừa sạm da - bất chấp da chai lì",
+          "category_path": "mua-kem-body-tang-kich-trang-luc-tao-legend-soo-young-giup-da-trang-nhanh-trong-7-ngay-deu-mau-da-ngan-ngua-sam-da-bat-chap-da-chai-li-98862557.html",
+          "image": "https://media3.scdn.vn/img4/2022/08_13/ltK2FvthHQTAGYnSLifh_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 189000,
+          "default_price_max": 189000,
+          "sale_price_min": 189000,
+          "sale_price_max": 189000,
+          "discount_app": 1,
+          "seller_admin_id": 693029,
+          "sku_user": "na33wy",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 693029,
+              "name": "Bảo Nam Boutique",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Bình Thuận",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 13951290,
+          "name": "Mua Sắm Tết Cho Xe Hơi -Ốp nắp xăng xe MAZDA Bt 50 -bảo vệ chống xước xe- Trang trí làm đẹp xe",
+          "category_path": "mua-sam-tet-cho-xe-hoi-op-nap-xang-xe-mazda-bt-50-bao-ve-chong-xuoc-xe-trang-tri-lam-dep-xe-13951290.html",
+          "image": "https://media3.scdn.vn/img3/2019/1_8/uGy8eD_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 150000,
+          "default_price_max": 150000,
+          "sale_price_min": 150000,
+          "sale_price_max": 150000,
+          "sold": 1,
+          "seller_admin_id": 437370,
+          "sku_user": "Nắp xăng Mazda BT 50",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 437370,
+              "name": "shopbongtit",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hà Nội",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 18699202,
+          "name": "MUA 1 tặng 1 COMBO 4 Hộp Mầm Đậu Nành Nguyên Sơ SÂM TỐ NỮ COLLAGEN Tăng Vòng 1 Minh Lady Beauty tặng tinh dầu nở ngực",
+          "category_path": "mua-1-tang-1-combo-4-hop-mam-dau-nanh-nguyen-so-sam-to-nu-collagen-tang-vong-1-minh-lady-beauty-tang-tinh-dau-no-nguc-18699202.html",
+          "image": "https://media3.scdn.vn/img4/2021/01_31/2rJbRn0eUGomToignaxe_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 1000000,
+          "default_price_max": 1000000,
+          "sale_price_min": 720000,
+          "sale_price_max": 720000,
+          "sale_percent": 28,
+          "sold": 3,
+          "discount_app": 5,
+          "seller_admin_id": 479668,
+          "sku_user": "0018",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 479668,
+              "name": "Nguyễn Tâm nữ hoàng mỹ phâm",
+              "status": 2,
+              "ware_house_region_name": "Hồ Chí Minh",
+              "badge_urls": {
+                  "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+              }
+          },
+          "rated": {},
+          "options": {},
+          "package_discount": [
+              {
+                  "position": "top",
+                  "type": "shipping_discount",
+                  "text_color": "#14babd",
+                  "bg_color": "#e2f6f7",
+                  "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+              },
+              {
+                  "position": "bottom",
+                  "type": "installment",
+                  "text": "Trả góp 0%",
+                  "text_color": "#133096",
+                  "bg_color": "#f1f3f9",
+                  "icon": "https://media3.scdn.vn/img4/2021/08_20/xuKcsLr4kFMaVTktqwCL.png"
+              }
+          ]
+      },
+      {
+          "id": 98890651,
+          "name": "Mua kem body tặng kích trắng (Lục tảo Legend Soo Young) giúp da trắng nhanh trong 7 ngày - đều màu da - ngăn ngừa sạm da - bất chấp da chai lì",
+          "category_path": "mua-kem-body-tang-kich-trang-luc-tao-legend-soo-young-giup-da-trang-nhanh-trong-7-ngay-deu-mau-da-ngan-ngua-sam-da-bat-chap-da-chai-li-98890651.html",
+          "image": "https://media3.scdn.vn/img4/2022/08_13/jAigAKVUTeovy8qTiHNj_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 189000,
+          "default_price_max": 189000,
+          "sale_price_min": 189000,
+          "sale_price_max": 189000,
+          "discount_app": 1,
+          "seller_admin_id": 693029,
+          "sku_user": "reaz11",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 693029,
+              "name": "Bảo Nam Boutique",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Bình Thuận",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 14118020,
+          "name": "MUA SẮM TẾT - BỘ CHĂN GA GỐI - CHĂN BÔNG DÀY",
+          "category_path": "mua-sam-tet-bo-chan-ga-goi-chan-bong-day-14118020.html",
+          "image": "https://media3.scdn.vn/img3/2019/1_16/FHR2mb_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 630000,
+          "default_price_max": 630000,
+          "sale_price_min": 630000,
+          "sale_price_max": 630000,
+          "sold": 2,
+          "seller_admin_id": 147312,
+          "sku_user": "HOA HỒNG PHAO",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 147312,
+              "name": "Ruby House _ Bedding Decor",
+              "status": 2,
+              "ware_house_region_name": "Hà Nội",
+              "badge_urls": {
+                  "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+              }
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 95622775,
+          "name": "Mua Sam Online . US - Vớ Quà Tặng",
+          "category_path": "mua-sam-online-us-vo-qua-tang-95622775.html",
+          "image": "https://media3.scdn.vn/img4/2022/07_03/INNalEG5pXGSPjOHuPfD_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 40000,
+          "default_price_max": 40000,
+          "sale_price_min": 40000,
+          "sale_price_max": 40000,
+          "seller_admin_id": 616376,
+          "sku_user": "MSO_VoQuaTang",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 616376,
+              "name": "MuaSamOnlineUS",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Bình Dương",
+              "badge_urls": {
+                  "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+              }
+          },
+          "rated": {},
+          "options": {},
+          "package_discount": [
+              {
+                  "position": "top",
+                  "type": "shipping_discount",
+                  "text_color": "#14babd",
+                  "bg_color": "#e2f6f7",
+                  "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+              }
+          ]
+      },
+      {
+          "id": 10932640,
+          "name": "[MUA 2 CÁI MIỄN SHIP TOÀN QUỐC] QUẦN THỂ THAO HÓT NHẤT SENDO  PHÙ HỢP CẢ NAM NỮ 35-85KG  DEJ4",
+          "category_path": "mua-2-cai-mien-ship-toan-quoc-quan-the-thao-hot-nhat-sendo-phu-hop-ca-nam-nu-35-85kg-dej4-10932640.html",
+          "image": "https://media3.scdn.vn/img2/2018/8_1/5lRNWX_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 69000,
+          "default_price_max": 69000,
+          "sale_price_min": 69000,
+          "sale_price_max": 69000,
+          "sold": 2262,
+          "seller_admin_id": 376643,
+          "sku_user": "DEJ4",
+          "product_type": 23,
+          "like_counter": 200,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 376643,
+              "name": "Chip_demo",
+              "status": 2,
+              "ware_house_region_name": "Hồ Chí Minh",
+              "badge_urls": {}
+          },
+          "rated": {
+              "total": 672,
+              "star": 4.4
+          },
+          "options": {}
+      },
+      {
+          "id": 14033531,
+          "name": "Mua sắm Tết - QUẦN TẤT LƯỚI NỮ KHÔNG ĐƯỜNG GÂN 3D HÀN QUỐC",
+          "category_path": "mua-sam-tet-quan-tat-luoi-nu-khong-duong-gan-3d-han-quoc-14033531.html",
+          "image": "https://media3.scdn.vn/img3/2019/1_11/4yneco_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 79000,
+          "default_price_max": 79000,
+          "sale_price_min": 79000,
+          "sale_price_max": 79000,
+          "sold": 1,
+          "seller_admin_id": 98351,
+          "sku_user": "JHHYUI",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 98351,
+              "name": "thanhlong39",
+              "status": 2,
+              "ware_house_region_name": "Hà Nội",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {},
+          "package_discount": [
+              {
+                  "position": "top",
+                  "type": "shipping_discount",
+                  "text_color": "#14babd",
+                  "bg_color": "#e2f6f7",
+                  "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+              },
+              {
+                  "position": "bottom",
+                  "type": "installment",
+                  "text": "Trả góp 0%",
+                  "text_color": "#133096",
+                  "bg_color": "#f1f3f9",
+                  "icon": "https://media3.scdn.vn/img4/2021/08_20/xuKcsLr4kFMaVTktqwCL.png"
+              }
+          ]
+      },
+      {
+          "id": 14004621,
+          "name": "Mua Sắm Tết Cho Xe Hơi - Bộ 4 ốp Hõm cửa xe MAZDA 2  giúp bảo vệ -trang trí ô tô",
+          "category_path": "mua-sam-tet-cho-xe-hoi-bo-4-op-hom-cua-xe-mazda-2-giup-bao-ve-trang-tri-o-to-14004621.html",
+          "image": "https://media3.scdn.vn/img3/2019/1_10/93dBep_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 190000,
+          "default_price_max": 190000,
+          "sale_price_min": 190000,
+          "sale_price_max": 190000,
+          "seller_admin_id": 437370,
+          "sku_user": "Hõm mazda 2",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 437370,
+              "name": "shopbongtit",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hà Nội",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 14191630,
+          "name": "Mua Sắm Tết Cho Xe Hơi - Bộ 4 ốp Hõm cửa xe MAZDA 6 đời 2015- 2019 giúp bảo vệ -trang trí ô tô",
+          "category_path": "mua-sam-tet-cho-xe-hoi-bo-4-op-hom-cua-xe-mazda-6-doi-2015-2019-giup-bao-ve-trang-tri-o-to-14191630.html",
+          "image": "https://media3.scdn.vn/img3/2019/1_21/xVN9Qr_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 190000,
+          "default_price_max": 190000,
+          "sale_price_min": 190000,
+          "sale_price_max": 190000,
+          "sold": 1,
+          "seller_admin_id": 437370,
+          "sku_user": "Hõm mazda 6",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 437370,
+              "name": "shopbongtit",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hà Nội",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 29331084,
+          "name": "Mua Tai nghe 6S giá tốt tại đây Shop Mua Sắm Yên Tâm",
+          "category_path": "mua-tai-nghe-6s-gia-tot-tai-day-shop-mua-sam-yen-tam-29331084.html",
+          "image": "https://media3.scdn.vn/img4/2020/05_05/KlK9bOl7C0dI0eMkmcVA_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 166000,
+          "default_price_max": 166000,
+          "sale_price_min": 166000,
+          "sale_price_max": 166000,
+          "discount_app": 2,
+          "seller_admin_id": 721768,
+          "sku_user": "MUASAMYENTAM256",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 721768,
+              "name": "Mua Sắm Yên Tâm",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hà Nội",
+              "badge_urls": {
+                  "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+              }
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 11898845,
+          "name": "Mua Sắm Tết - Giảm giá mạnh - TÚI XÁCH CAO CẤP QUẢNG CHÂU KẺ  -  CỰC DÀY DẶN",
+          "category_path": "mua-sam-tet-giam-gia-manh-tui-xach-cao-cap-quang-chau-ke-cuc-day-dan-11898845.html",
+          "image": "https://media3.scdn.vn/img2/2018/9_25/zMeUDw_simg_749de6_579-579-117-21_cropf_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 200000,
+          "default_price_max": 200000,
+          "sale_price_min": 200000,
+          "sale_price_max": 200000,
+          "seller_admin_id": 437370,
+          "sku_user": "CHẮC CHẮN - DA ĐẸP - TINH TẾ",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 437370,
+              "name": "shopbongtit",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hà Nội",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 32801229,
+          "name": "Mua Sắm Giá Gốc Nước Hoa Nữ Lua Crystal For Her 60Ml Cam Kết Hàng",
+          "category_path": "mua-sam-gia-goc-nuoc-hoa-nu-lua-crystal-for-her-60ml-cam-ket-hang-32801229.html",
+          "image": "https://media3.scdn.vn/img3/2019/11_22/I87TpS_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 169000,
+          "default_price_max": 169000,
+          "sale_price_min": 169000,
+          "sale_price_max": 169000,
+          "seller_admin_id": 721610,
+          "sku_user": "81993",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 721610,
+              "name": "NHÀ THUỐC AN TÂM 68",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hồ Chí Minh",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 32801220,
+          "name": "Mua Sắm Giá Gốc Nước Hoa Nữ Lua Crystal For Her 60Ml Cam Kết Hàng",
+          "category_path": "mua-sam-gia-goc-nuoc-hoa-nu-lua-crystal-for-her-60ml-cam-ket-hang-32801220.html",
+          "image": "https://media3.scdn.vn/img3/2019/12_8/onDslf_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 170000,
+          "default_price_max": 170000,
+          "sale_price_min": 170000,
+          "sale_price_max": 170000,
+          "seller_admin_id": 721610,
+          "sku_user": "NHLforHer",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 721610,
+              "name": "NHÀ THUỐC AN TÂM 68",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hồ Chí Minh",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 95443703,
+          "name": "[Mua 1 tặng 1] Kem dưỡng ban đêm mờ nám-thâm-sạm-tàn nhan Sắc Ngọc Khang (Hộp 30g)-Tặng sữa rửa mặt",
+          "category_path": "mua-1-tang-1-kem-duong-ban-dem-mo-nam-tham-sam-tan-nhan-sac-ngoc-khang-hop-30g-tang-sua-rua-mat-95443703.html",
+          "image": "https://media3.scdn.vn/img4/2022/11_03/3gYctOwOuCCjN9OmPlZk_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 330000,
+          "default_price_max": 330000,
+          "sale_price_min": 270000,
+          "sale_price_max": 270000,
+          "sale_percent": 19,
+          "sold": 9,
+          "seller_admin_id": 401560,
+          "sku_user": "CCB90",
+          "product_type": 23,
+          "like_counter": 1,
+          "active_event_frame": "mega_voucher",
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 401560,
+              "name": "Hoa Thiên Phú",
+              "is_certified": true,
+              "status": 2,
+              "level": 5,
+              "type": 2,
+              "ware_house_region_name": "Hồ Chí Minh",
+              "badge_urls": {
+                  "shop_level": "https://media3.scdn.vn/img4/2020/08_11/sz2SGWJWxPBdwfsXoFFY.png",
+                  "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                  "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+              }
+          },
+          "rated": {
+              "total": 4,
+              "star": 5
+          },
+          "options": {},
+          "package_discount": [
+              {
+                  "position": "top",
+                  "type": "mega_voucher",
+                  "icon": "https://media3.scdn.vn/img4/2022/10_31/1SX4OR0ZvoSdrvNOlGCb.png"
+              },
+              {
+                  "position": "top",
+                  "type": "shipping_discount",
+                  "text_color": "#14babd",
+                  "bg_color": "#e2f6f7",
+                  "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+              },
+              {
+                  "position": "bottom",
+                  "type": "instant_shipping",
+                  "text": "Hoả tốc",
+                  "text_color": "#449460",
+                  "bg_color": "#f5fbf7",
+                  "icon": "https://media3.scdn.vn/img4/2022/04_14/P8X20So6YTrWe466Xr7v.png"
+              }
+          ]
+      },
+      {
+          "id": 32801221,
+          "name": "Mua Sắm Giá Gốc Xạ Hương Lụa Crystal For Her Cam Kết Hàng",
+          "category_path": "mua-sam-gia-goc-xa-huong-lua-crystal-for-her-cam-ket-hang-32801221.html",
+          "image": "https://media3.scdn.vn/img4/2020/01_03/Q8G5OCNovUn2DtuLxTY8_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 165000,
+          "default_price_max": 165000,
+          "sale_price_min": 165000,
+          "sale_price_max": 165000,
+          "seller_admin_id": 721610,
+          "sku_user": "nhln",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 721610,
+              "name": "NHÀ THUỐC AN TÂM 68",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hồ Chí Minh",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 32801228,
+          "name": "Mua Sắm Giá Gốc Nước Hoa Lụa Crystal For Her Cam Kết Hàng",
+          "category_path": "mua-sam-gia-goc-nuoc-hoa-lua-crystal-for-her-cam-ket-hang-32801228.html",
+          "image": "https://media3.scdn.vn/img3/2019/12_26/P4s1oC_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 165000,
+          "default_price_max": 165000,
+          "sale_price_min": 165000,
+          "sale_price_max": 165000,
+          "seller_admin_id": 721610,
+          "sku_user": "FHR",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 721610,
+              "name": "NHÀ THUỐC AN TÂM 68",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hồ Chí Minh",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 20875513,
+          "name": "Mua 1 Tặng 1 - Sâm nghệ mật ong Mama Chue chính hãng Hàn Quốc",
+          "category_path": "mua-1-tang-1-sam-nghe-mat-ong-mama-chue-chinh-hang-han-quoc-20875513.html",
+          "image": "https://media3.scdn.vn/img3/2019/8_19/cYhKCb_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 790000,
+          "default_price_max": 790000,
+          "sale_price_min": 711000,
+          "sale_price_max": 711000,
+          "sale_percent": 10,
+          "sold": 2,
+          "seller_admin_id": 568018,
+          "sku_user": "Sâm nghệ mật ong Mamachue",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 568018,
+              "name": "NTK Authentic Japan",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hà Nội",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {},
+          "package_discount": [
+              {
+                  "position": "bottom",
+                  "type": "installment",
+                  "text": "Trả góp 0%",
+                  "text_color": "#133096",
+                  "bg_color": "#f1f3f9",
+                  "icon": "https://media3.scdn.vn/img4/2021/08_20/xuKcsLr4kFMaVTktqwCL.png"
+              }
+          ]
+      },
+      {
+          "id": 17524429,
+          "name": "[BẢO TRỢ BỞI SENDO]Tay quay INOX núm tròn mua nhiều giá rẻ -ĐỒ CÂU CÁ ĐỨC NGUYÊN [Shop đồ câu cá uy tín]",
+          "category_path": "bao-tro-boi-sendotay-quay-inox-num-tron-mua-nhieu-gia-re-do-cau-ca-duc-nguyen-shop-do-cau-ca-uy-tin-17524429.html",
+          "image": "https://media3.scdn.vn/img3/2019/4_17/C8CNSv_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 99000,
+          "default_price_max": 800000,
+          "sale_price_min": 99000,
+          "sale_price_max": 800000,
+          "sold": 3,
+          "seller_admin_id": 229229,
+          "sku_user": "tayquay10",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 229229,
+              "name": "shop ckc",
+              "status": 2,
+              "level": 98,
+              "ware_house_region_name": "Hồ Chí Minh",
+              "badge_urls": {}
+          },
+          "rated": {
+              "total": 1,
+              "star": 5
+          },
+          "options": {},
+          "package_discount": [
+              {
+                  "position": "bottom",
+                  "type": "installment",
+                  "text": "Trả góp 0%",
+                  "text_color": "#133096",
+                  "bg_color": "#f1f3f9",
+                  "icon": "https://media3.scdn.vn/img4/2021/08_20/xuKcsLr4kFMaVTktqwCL.png"
+              }
+          ]
+      },
+      {
+          "id": 29478782,
+          "name": "...ƯU ĐÃI HÓT.. trà sam hồng-Mua 2 gói 500gr Tặng quà khuyến mãi",
+          "category_path": "uu-dai-hot-tra-sam-hong-mua-2-goi-500gr-tang-qua-khuyen-mai-29478782.html",
+          "image": "https://media3.scdn.vn/img4/2020/05_09/HyY64oQtye7ebVY4j1oZ_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 259000,
+          "default_price_max": 259000,
+          "sale_price_min": 259000,
+          "sale_price_max": 259000,
+          "sold": 35,
+          "seller_admin_id": 25233,
+          "sku_user": "...ƯU ĐÃI HÓT.",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 25233,
+              "name": "Hồng Phúc Mini Shop",
+              "status": 2,
+              "ware_house_region_name": "Hồ Chí Minh",
+              "badge_urls": {}
+          },
+          "rated": {
+              "total": 12,
+              "star": 4.9
+          },
+          "options": {}
+      },
+      {
+          "id": 29076884,
+          "name": "Hộp 30 miếng vá săm ô tô, xe máy 3.M(Tròn,  60mm) Chuyên Dụng Cho Mọi  Oto, Xe Máy Đang Làm Mưa Làm Gió Trên Thị Trường",
+          "category_path": "hop-30-mieng-va-sam-o-to-xe-may-3mtron-60mm-chuyen-dung-cho-moi-oto-xe-may-dang-lam-mua-lam-gio-tren-thi-truong-29076884.html",
+          "image": "https://media3.scdn.vn/img4/2021/06_26/D0rU7GeWEc4GydvErmEG_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 159000,
+          "default_price_max": 159000,
+          "sale_price_min": 119000,
+          "sale_price_max": 119000,
+          "sale_percent": 26,
+          "sold": 37,
+          "seller_admin_id": 752933,
+          "sku_user": "3.M-58",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 752933,
+              "name": "THIẾT BỊ GP20",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hà Nội",
+              "badge_urls": {}
+          },
+          "rated": {
+              "total": 5,
+              "star": 3.8
+          },
+          "options": {}
+      },
+      {
+          "id": 10524702,
+          "name": "100 VIÊN KHĂN GIẤY NÉN CAO CẤP DẠNG VIÊN KẸO RỜI MIN SOFT - Mua sắm Tết",
+          "category_path": "100-vien-khan-giay-nen-cao-cap-dang-vien-keo-roi-min-soft-mua-sam-tet-10524702.html",
+          "image": "https://media3.scdn.vn/img2/2018/7_7/jwmcXy_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 109000,
+          "default_price_max": 109000,
+          "sale_price_min": 109000,
+          "sale_price_max": 109000,
+          "sold": 54,
+          "discount_app": 2,
+          "seller_admin_id": 44864,
+          "sku_user": "CH-KHANNEN-MINSOFT-100",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 44864,
+              "name": "My shop",
+              "status": 2,
+              "ware_house_region_name": "Hồ Chí Minh",
+              "badge_urls": {
+                  "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+              }
+          },
+          "rated": {
+              "total": 8,
+              "star": 4.8
+          },
+          "options": {}
+      },
+      {
+          "id": 10689903,
+          "name": "Combo 500  Sao Dạ Quang Phát Sáng Trong Đêm - Mua sắm Tết",
+          "category_path": "combo-500-sao-da-quang-phat-sang-trong-dem-mua-sam-tet-10689903.html",
+          "image": "https://media3.scdn.vn/img2/2018/7_18/x0dGGw_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 69000,
+          "default_price_max": 69000,
+          "sale_price_min": 69000,
+          "sale_price_max": 69000,
+          "sold": 19,
+          "discount_app": 2,
+          "seller_admin_id": 44864,
+          "sku_user": "HO-SAODAQUANG-5GOI",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 44864,
+              "name": "My shop",
+              "status": 2,
+              "ware_house_region_name": "Hồ Chí Minh",
+              "badge_urls": {
+                  "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+              }
+          },
+          "rated": {
+              "total": 6,
+              "star": 4.2
+          },
+          "options": {}
+      },
+      {
+          "id": 51792860,
+          "name": "Mua Pullaco Hộp 120 viên - Tặng 1 Hộp Sâm Việt - Hỗ Trợ Bổ Phế, Giảm Ho, Long Đờm",
+          "category_path": "mua-pullaco-hop-120-vien-tang-1-hop-sam-viet-ho-tro-bo-phe-giam-ho-long-dom-51792860.html",
+          "image": "https://media3.scdn.vn/img4/2021/10_08/BaVnImH6leyr8pDSId2T_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 1080000,
+          "default_price_max": 1080000,
+          "sale_price_min": 1080000,
+          "sale_price_max": 1080000,
+          "seller_admin_id": 660072,
+          "sku_user": "DMHH001710",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 660072,
+              "name": "Khỏe đẹp 832",
+              "status": 2,
+              "type": 1,
+              "ware_house_region_name": "Hà Nội",
+              "badge_urls": {}
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 105021035,
+          "name": "[Bầu 3 cây] Cây Giống Sâm Đại Hành  Sendo - Zindo",
+          "category_path": "bau-3-cay-cay-giong-sam-dai-hanh-sendo-zindo-105021035.html",
+          "image": "https://media3.scdn.vn/img4/2022/10_19/RZFvhoAGl8t6wQwIn8QL_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 80000,
+          "default_price_max": 80000,
+          "sale_price_min": 40000,
+          "sale_price_max": 40000,
+          "sale_percent": 50,
+          "seller_admin_id": 708622,
+          "sku_user": "CGSAMDAIHANH",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 708622,
+              "name": "Zindo",
+              "status": 2,
+              "ware_house_region_name": "An Giang",
+              "badge_urls": {
+                  "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+              }
+          },
+          "rated": {},
+          "options": {}
+      },
+      {
+          "id": 13859452,
+          "name": "BỘ LY  THỦY TINH CAO CẤP 6 Chiếc Mua sắm têt thôi",
+          "category_path": "bo-ly-thuy-tinh-cao-cap-6-chiec-mua-sam-tet-thoi-13859452.html",
+          "image": "https://media3.scdn.vn/img3/2019/1_3/SCj3Qz_simg_de2fe0_250x250_maxb.jpg",
+          "default_price_min": 99000,
+          "default_price_max": 99000,
+          "sale_price_min": 99000,
+          "sale_price_max": 99000,
+          "sold": 44,
+          "seller_admin_id": 287180,
+          "sku_user": "GK398",
+          "product_type": 23,
+          "status_new": 2,
+          "stock_status": 1,
+          "search_feed_type": "SKU",
+          "shop": {
+              "id": 287180,
+              "name": "Shop Minh Chiến",
+              "status": 2,
+              "ware_house_region_name": "Hải Dương",
+              "badge_urls": {}
+          },
+          "rated": {
+              "total": 16,
+              "star": 5
+          },
+          "options": {}
+      }
+  ]
+}
